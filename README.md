@@ -6,10 +6,10 @@ Home Assistant Yeelight Integration
  3. Go to LAN control and make are each device has LAN Control allowed.
  4. Go to HA configuration.yaml and use code
 
-#yeelight
+"#yeelight
  yeelight:
  devices:
  192.168.x.xxx: # enter you yeelight IP Address if you dont know it use Fing app from google play store to find it.
  name: My Light # Give the light a name
  model: color1 # enter you model
-#end yeelight
+#end yeelight"
