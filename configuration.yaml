@@ -1,5 +1,6 @@
-#yeelight yeelight:
+#yeelight
+yeelight:
   devices: 192.168.x.xxx: # enter you yeelight IP Address if you dont know it use Fing app from google play store to find it.
-  name: My Light # Give the light a name
-  model: color1 # enter you model 
+   name: My Light # Give the light a name
+    model: color1 # enter you model 
 #end yeelight"
