@@ -1,10 +1,11 @@
 # Home-Assistant-Yeelight
 Home Assistant Yeelight Integration
 
- 1. Go to the Yeelight app.
- 2. Go to menu
- 3. Go to LAN control and make are each device has LAN Control allowed.
- 4. Go to HA configuration.yaml and use code
+ 1. Make sure all your devices have static IP address 
+ 2. Go to the Yeelight app.
+ 3. Go to menu
+ 4. Go to LAN control and make are each device has LAN Control allowed.
+ 5. Go to HA configuration.yaml and use code
 
 "#yeelight
  yeelight:
