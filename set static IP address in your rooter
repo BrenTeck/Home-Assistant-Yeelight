@@ -1,0 +1,7 @@
+You can set static IP address in your rooter interface.
+Info may be on the back of your rooter if not try below:
+  Most have this basic feature standard rooters IP is something like 192.168.0.1 or 192.168.1.1
+  If not start a DOS command prompt (cmd) and type ipconfig /all and make a note of the DHCP server address.
+  Enter that ip into the address bar of your web browser and log in.
+Look for LAN setting
+Look for DHCP settings and folow onscreen prompts.
