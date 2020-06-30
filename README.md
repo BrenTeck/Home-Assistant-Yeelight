@@ -1,5 +1,5 @@
 # Home-Assistant-Yeelight
-Home Assistant Yeelight Integration
+<pre>Home Assistant Yeelight Integration
 
  1. Make sure all your devices have static IP address 
  2. Go to the Yeelight app.
@@ -14,3 +14,7 @@ Home Assistant Yeelight Integration
  name: My Light # Give the light a name
  model: color1 # enter you model
 #end yeelight"
+
+References:
+https://www.home-assistant.io/integrations/Yeelight/
+</pre>
